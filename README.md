@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mjoliva ans I am from Chile
+- 👋 Hi, I’m @mjoliva and I am from Chile
 - 👀 I’m interested in learning every day
 - 🌱 I’m currently learning JS
 
