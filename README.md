@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mjoliva and I am from Chile
-- 🌱 Full stack developer
+- 🌱 Full stack developer in JS
+- 🌱 Data analyst
 
 <!---
 mjoliva/mjoliva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
