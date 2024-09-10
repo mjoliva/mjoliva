@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mjoliva and I am from Chile
-- 🌱 Full stack developer in JS
+- 🌱 Full stack developer in JS & Python
 - 🌱 Data analyst
 
 <!---
